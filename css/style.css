@@ -584,7 +584,8 @@ body {
     @media only screen and (max-width: 37.5em) {
       .popup__text {
         column-count: 1;
-        margin-bottom: 2rem; } }
+        margin-bottom: 2rem;
+        font-size: 7px; } }
   .popup:target {
     opacity: 1;
     visibility: visible; }
